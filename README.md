@@ -1,4 +1,6 @@
-### Hi there 👋
+Hello
+
+I'm a statistics major at BYU planning to study religion (or something tangential to it) in grad school and become a professor.
 
 <!--
 **jacksonswitzer/jacksonswitzer** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
